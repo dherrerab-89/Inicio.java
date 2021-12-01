@@ -145,7 +145,7 @@
 
     </div>
     <div class="card-footer text-muted">
-      <p>Todos los derechos reservados Consultora Stay safe, please xD </p>
+      <p>Todos los derechos reservados Consultora Stay safe, please xD xdxdxd</p>
     </div>
   </div>
 </footer>
