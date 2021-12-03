@@ -13,6 +13,27 @@
 <div class="alert alert-info" role="alert">
   <p> Avenida Borgoño 357 Emergencias al +56965739113 +56983335171</p>
 </div>
+
+
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" href="Inicio">Inicio</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+    <div class="navbar-nav">
+      <a class="nav-link active" href="Login">Login <span class="sr-only">(current)</span></a>
+      <a class="nav-link disabled" href="Contacto">Contacto</a>
+      <a class="nav-link disabled" href="CrearCapacitacion">Crear capacitacion</a>
+      <a class="nav-link disabled" href="ListarCapacitacion">Listar capacitacion</a>
+      <a class="nav-link disabled" href="CrearUsuario">Crear usuario</a>
+      <a class="nav-link disabled" href="ListarUsuario">Listar usuario</a>
+    </div>
+  </div>
+</nav>
+
+
+<!--
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="Inicio">Inicio</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
@@ -52,7 +73,7 @@
     </ul>
   </div>
 </nav>
-
+-->
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
