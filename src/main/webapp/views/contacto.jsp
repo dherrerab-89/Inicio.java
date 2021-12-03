@@ -51,34 +51,31 @@
  <form>
         <div class="form-row">
           <div class="form-group col-md-6">
-            <label for="inputname">Nombre</label>
-            <input type="nME" class="form-control" id="Nombre" placeholder="Ingrese nombre">
+            <label for="nombre">Nombre</label>
+            <input type="text" class="form-control" name="nombres" id="Nombre" placeholder="Ingrese nombre">
           </div>
           <div class="form-group col-md-6">
             <label for="inputEmail4">Email</label>
-            <input type="email" class="form-control" id="inputEmail4" placeholder="Ingrese Email">
+            <input type="email" class="form-control" name="email" id="inputEmail4" placeholder="Ingrese Email">
           </div>
           
           <div class="form-group col-md-6">
             <label for="inputPassword4">Contraseña</label>
-            <input type="password" class="form-control" id="inputPassword4" placeholder="Contraseña">
+            <input type="password" class="form-control" name="clave" id="inputPassword4" placeholder="Contraseña">
           </div>
         </div>
         <div class="form-group">
           <label for="inputAddress">Dirección</label>
-          <input type="text" class="form-control" id="inputAddress" placeholder="Dirección">
+          <input type="text" class="form-control" name="direccion" id="inputAddress" placeholder="Dirección">
         </div>
         <div class="form-row">
           <div class="form-group col-md-6">
-            <label for="inputCity">Ciudad</label>
-            <input type="text" class="form-control" id="Ciudad">
+            <label for="ciudad">Ciudad</label>
+            <input type="text" class="form-control" name="ciudad" id="Ciudad">
           </div>
           <div class="form-group col-md-4">
-            <label for="inputState">Region</label>
-            <select id="inputState" class="form-control">
-              <option selected>Region...</option>
-              <option>...</option>
-            </select>
+            <label for="formGroupExampleInput2">Region</label>
+            <input type="text" class="form-control" name="region" id="formGroupExampleInput2" placeholder="Ingrese la región">
           </div>
           
           </div>
